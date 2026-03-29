@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dpdev.chatApp",
+      "sha256_cert_fingerprints":
+        ["4D:BC:52:8C:D7:59:28:35:05:B7:8A:9E:3A:D2:62:C9:25:D6:BC:3A:B4:C5:43:C8:81:18:44:0F:C1:BC:91:6F"]
+    }
+  }
+]
