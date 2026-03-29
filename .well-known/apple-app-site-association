@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "45F72PTL46.com.dpdev.chatApp",
-                "paths": ["*"]
+                "paths": ["/heyo-links/*"]
             }
         ]
     }
